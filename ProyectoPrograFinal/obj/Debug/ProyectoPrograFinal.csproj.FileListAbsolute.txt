@@ -1,0 +1,7 @@
+C:\Users\Mischa\source\repos\ProyectoPrograFinal\ProyectoPrograFinal\bin\Debug\ProyectoPrograFinal.exe.config
+C:\Users\Mischa\source\repos\ProyectoPrograFinal\ProyectoPrograFinal\bin\Debug\ProyectoPrograFinal.exe
+C:\Users\Mischa\source\repos\ProyectoPrograFinal\ProyectoPrograFinal\bin\Debug\ProyectoPrograFinal.pdb
+C:\Users\Mischa\source\repos\ProyectoPrograFinal\ProyectoPrograFinal\obj\Debug\ProyectoPrograFinal.csprojAssemblyReference.cache
+C:\Users\Mischa\source\repos\ProyectoPrograFinal\ProyectoPrograFinal\obj\Debug\ProyectoPrograFinal.csproj.CoreCompileInputs.cache
+C:\Users\Mischa\source\repos\ProyectoPrograFinal\ProyectoPrograFinal\obj\Debug\ProyectoPrograFinal.exe
+C:\Users\Mischa\source\repos\ProyectoPrograFinal\ProyectoPrograFinal\obj\Debug\ProyectoPrograFinal.pdb
